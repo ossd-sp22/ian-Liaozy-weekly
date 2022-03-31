@@ -23,5 +23,5 @@ Replace the first row with your own contribution.
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
 | Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
-|     |     |     |      |
+| Mar 31  |  https://www.openstreetmap.org/changeset/119140149 | Open Street Mao |   add the information of a hotel that I had been to in Key West, FL   |
 |     |     |     |      |
