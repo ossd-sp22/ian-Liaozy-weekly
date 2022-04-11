@@ -23,6 +23,8 @@ Replace the first row with your own contribution.
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
 | Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
-| Mar 31  | https://www.openstreetmap.org/changeset/119140149 | Open Street Mao |   add the information of a hotel that I had been to in Key West, FL   |
+| Mar 31  | https://www.openstreetmap.org/changeset/119140149 | Open Street Map |   add the information of a hotel that I had been to in Key West, FL   |
 | Apr 7   | https://github.com/joannakl/ossd/issues/27    | Course Website    |  I create an issue    |
 | Apr 7   | https://github.com/joannakl/ossd/pull/28      | Course Website    |  I submit a pull request for add a link and fix a typo (solve an issue created by others |
+| Apr 11  | https://lawnchair.crowdin.com/lawnchair https://github.com/LawnchairLauncher/lawnchair（username: zl3057) | Lawnchair project |   help to translate the nouns in the app into Chinese (Simplified)   |
+
