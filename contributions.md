@@ -29,3 +29,4 @@ Replace the first row with your own contribution.
 | Apr 25  | [Lawnchair Project](https://github.com/LawnchairLauncher/lawnicons/pull/448) | Lawnchair project | Claim an issue, and open a PR to fix it |
 | Apr 27  | [NewsAPI](https://github.com/News-API-gh/News-API-node/issues/9) | News API| Comment on an issue, trying to offer solution (through code) |
 | Apr 28  | [d3-cloud](https://github.com/jasondavies/d3-cloud/pull/175) | d3-cloud | Comment on [an issue](https://github.com/jasondavies/d3-cloud/issues/152), update the installation guide in README file, open a [PR](https://github.com/jasondavies/d3-cloud/pull/175) for the update |
+| May 08  | [open street map](https://www.openstreetmap.org/changeset/120712963) | Open Street Map |  fix and update the first issue, find a better way to do it|
