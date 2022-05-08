@@ -31,3 +31,4 @@ Replace the first row with your own contribution.
 | Apr 28  | [d3-cloud](https://github.com/jasondavies/d3-cloud/pull/175) | d3-cloud | Comment on [an issue](https://github.com/jasondavies/d3-cloud/issues/152), update the installation guide in README file, open a [PR](https://github.com/jasondavies/d3-cloud/pull/175) for the update |
 | May 08  | [open street map](https://www.openstreetmap.org/changeset/120712963) | Open Street Map |  fix and update the first issue, find a better way to do it|
 | May 08 | [open street map](https://www.openstreetmap.org/changeset/120713210) | Open Street Map |  delete a restaurant due to it is closed|
+| May 08 | [open street map](https://www.openstreetmap.org/changeset/120713908) | Open Street Map |  fix a road breakpoint issue, and add the place I live back to China to the map|
